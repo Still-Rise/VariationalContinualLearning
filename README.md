@@ -1,5 +1,5 @@
 # Variational Continual Learning (VCL)
-An implementation of the Variational Continual Learning (VCL) algorithms proposed by Nguyen, Li, Bui, and Turner (ICLR 2018).
+A PyTorch implementation of the Variational Continual Learning (VCL) algorithms proposed by Nguyen, Li, Bui, and Turner (ICLR 2018).
 
 ```
 @inproceedings{nguyen2018variational,
